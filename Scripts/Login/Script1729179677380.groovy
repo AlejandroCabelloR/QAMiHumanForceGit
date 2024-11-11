@@ -23,6 +23,8 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.click(findTestObject('Object Repository/Page_miHumanForce - dev/label_Ingrese Cuenta de Usuario'))
 
+WebUI.delay(3)
+
 WebUI.setText(findTestObject('Object Repository/Page_miHumanForce - dev/input_miHumanForce Cloud_P101_USERNAME'), '10605466-5')
 
 WebUI.click(findTestObject('Object Repository/Page_miHumanForce - dev/label_Ingrese Contrasea'))
