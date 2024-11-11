@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Salir</name>
    <tag></tag>
-   <elementGuidId>70413e37-0649-40d6-b511-46afa2382c23</elementGuidId>
+   <elementGuidId>693de3a5-3209-4e6b-a2a5-accf46d5738d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#L9140856380383640733 > span.hide-on-med-and-down</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='L9140856380383640733']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L9140856380383640733 > span.hide-on-med-and-down</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c33d6d0e-17b3-402a-92f2-f0c08d4f8c75</webElementGuid>
+      <webElementGuid>d22ec534-c4a1-4cc4-9e81-ccd19f384ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hide-on-med-and-down</value>
-      <webElementGuid>13b81d6c-6bb0-4cb7-b6a4-f9dfa0184d2d</webElementGuid>
+      <webElementGuid>c731bb96-f5c1-4498-b341-289bbe110f09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Salir</value>
-      <webElementGuid>ad6b392f-5f88-44c8-ad61-369010a3e62a</webElementGuid>
+      <webElementGuid>59a074ba-6048-4fae-a1d3-211bfe227301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;L9140856380383640733&quot;)/span[@class=&quot;hide-on-med-and-down&quot;]</value>
-      <webElementGuid>f761cc00-5d61-4194-a5d9-3c17f57b8a8e</webElementGuid>
+      <webElementGuid>7931291a-ed99-4767-a8c1-45ae7dee8332</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='L9140856380383640733']/span</value>
-      <webElementGuid>fed50d0e-2841-4c7a-9e4f-6ca82b8771ac</webElementGuid>
+      <webElementGuid>d0f47725-777e-4f82-908b-6a3f8e01cb28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acerca de...'])[1]/following::span[1]</value>
-      <webElementGuid>998646cf-61fe-46e3-bf48-35c137d1ebe6</webElementGuid>
+      <webElementGuid>dbbea2aa-7290-4bb4-b29c-c35c47432aa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil'])[1]/following::span[1]</value>
-      <webElementGuid>f06879d6-2ab5-4a55-8aae-6709c2e8eb8b</webElementGuid>
+      <webElementGuid>314fcdb7-12f7-49d4-b77a-6daa6bbe1ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ALEJANDRO CABELLO RIOS'])[1]/preceding::span[2]</value>
-      <webElementGuid>8454a48b-05d2-4e9b-9023-5c93fbea89fc</webElementGuid>
+      <webElementGuid>7d972379-72a6-4d1e-95a6-3c96805b9cde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ALEJANDRO.CABELLO.RIOS@AUTOMATIZA.CL'])[1]/preceding::span[3]</value>
-      <webElementGuid>1e2bd813-eb82-4b2f-8478-03d7067beecb</webElementGuid>
+      <webElementGuid>30816d85-92b3-45bc-bfbd-07f8dc70a683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Salir']/parent::*</value>
-      <webElementGuid>9e1cb066-67d1-49b1-8cf9-77e2830ec0bc</webElementGuid>
+      <webElementGuid>2d0396ad-27fb-4b3a-871c-4e28e3b35baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span</value>
-      <webElementGuid>e8f8df28-c741-4b49-ab70-d776776ce4a8</webElementGuid>
+      <webElementGuid>06edb17c-3647-4e69-9425-f4a622a97824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Salir' or . = 'Salir')]</value>
-      <webElementGuid>43cd3e39-c903-48fc-b2bb-46e1a31da4cf</webElementGuid>
+      <webElementGuid>b90fd7c9-d68d-4dd0-a9ce-30319f809a6e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
